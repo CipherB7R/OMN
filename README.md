@@ -19,7 +19,9 @@ This product includes software written and developed by Code 5520 of the Naval R
 
 It uses NORM v. 1.5.9 in order to make IP multicast communication an affidable communication (like TCP).
 
-----------------------------------------INSTALLATION-------------------------------------------------- To try OMN in your system just extract the src-norm-1.5.9.tgz file (https://github.com/USNavalResearchLaboratory/norm/releases/tag/v1.5.9) outside omn directory (the same directory where the build.sh is stored).
+----------------------------------------INSTALLATION-------------------------------------------------- 
+
+To try OMN in your system just extract the src-norm-1.5.9.tgz file (https://github.com/USNavalResearchLaboratory/norm/releases/tag/v1.5.9) outside omn directory (the same directory where the build.sh is stored).
 
 You'll need the following libraries too, from apt-get: libncurses, libgpgme, libgcrypt.
 
