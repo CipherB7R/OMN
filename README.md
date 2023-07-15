@@ -21,7 +21,7 @@ It uses NORM v. 1.5.9 in order to make IP multicast communication an affidable c
 
 ----------------------------------------INSTALLATION-------------------------------------------------- 
 
-To try OMN in your system just extract the src-norm-1.5.9.tgz file (https://github.com/USNavalResearchLaboratory/norm/releases/tag/v1.5.9) outside omn directory (the same directory where the build.sh is stored).
+To try OMN in your system just extract the src-norm-1.5.9.tgz file (https://github.com/USNavalResearchLaboratory/norm/releases/tag/v1.5.9) in the same directory where the build.sh is stored.
 
 You'll need the following libraries too, from apt-get: libncurses, libgpgme, libgcrypt.
 
